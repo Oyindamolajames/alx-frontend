@@ -683,7 +683,7 @@ ul.row {
 }
 
 .card-testimonial .card-quote {
-  position: inherit;
+  position: relative;
 }
 
 .card-testimonial .card-quote::before {
